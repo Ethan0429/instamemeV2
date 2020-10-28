@@ -15,9 +15,9 @@ Automatically posts memes to Instagram daily
 
   -Unfortunately, exactly two files belonging to two separate modules require tweaking in order for the script to properly run.
   
-    - ffmpeg_audiowriter.py - belongs in [python3.8 modules directory]/moviepy/audio/io/
+   - ffmpeg_audiowriter.py - belongs in [python3.8 modules directory]/moviepy/audio/io/
     
-    - api_video.py - belongs in [python3.8 modules directory]/instabot/api/ 
+   - api_video.py - belongs in [python3.8 modules directory]/instabot/api/ 
     
-    - Luckily I have provided the modified files in the repository within the "fixed files" folder
+   - Luckily I have provided the modified files in the repository within the "fixed files" folder
    
